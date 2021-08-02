@@ -1,0 +1,277 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration:none ;
+    font-family: 'Roboto', sans-serif;
+}
+.nachalo{
+    height:120vh ;
+    width:100vw ;
+}
+.krepa-repa{
+    height:100%;
+    width:60% ;
+    position: relative;
+    left:16% ;
+    background-image: url(https://mamabell.ru/content/files/catalog3/vitamincfunctioninthebody.png);
+    background-repeat: no-repeat;
+}
+.krepa-repa:hover{
+    height:107% ;
+    width:70%;
+    left:14% ;
+    position:absolute;
+    transition-duration:2s;
+    background-image: url(https://tutknow.ru/uploads/posts/2017-06/1496430619_citrusovye-dlya-pohudeniya-za-i-protiv.jpg);
+}
+
+.repa{
+    font-size: 3.5em ;
+    color:rgb(247, 165, 44) ;
+    text-align: center;
+    font-family: 'Pattaya', sans-serif;
+}
+.header{
+    border:5px solid rgb(77, 77, 77);
+    padding-top:7px ;
+    height:61px;
+    width:100% ;
+    background-color:rgb(180, 234, 255) ;
+    text-align: center;
+    font-size:2.5em ;
+    color:rgb(77,77,77) ;
+    font-weight: bold;
+    bottom:10% ;
+}
+.main{
+    border:5px solid rgb(77, 77, 77);
+    height:650px ;
+    width:100% ;
+    background-color:rgb(180, 234, 255) ;
+    font-size:1.7em ;
+    padding:10px ;
+    bottom:5% ;
+}
+.footer{
+    border:5px solid rgb(77, 77, 77);
+    background-color:rgb(180, 234, 255) ;
+    height:80px ;
+    width:100% ;
+    bottom:5% ;
+}
+img{
+    height:550px ;
+    width:1470px ;
+}
+.wh{
+    padding: auto;
+    position: relative;
+    top:23px;
+}
+.main a{
+    font-size:2em;
+    color:rgb(77,77,77) ;
+    font-weight: bold;
+    display:flex;
+    justify-content: end;
+}
+.foto{
+
+    height:103.3% ;
+    width:45.7% ;
+    background-color:greenyellow ;
+    position: relative;
+    bottom:102.4% ;
+    left:55% ;
+    background-image:url(https://st.depositphotos.com/1439603/2772/i/950/depositphotos_27725751-stock-photo-lime-slices.jpg) ;
+    background-repeat: no-repeat;
+}
+.ghg{
+    height:590px;
+    width:100% ;
+}
+
+.wiki{
+    font-size:2em;
+    position: relative;
+    left:25%;
+    color:rgb(77,77,77);
+    font-weight: bold;
+}
+
+.pahalka{
+    font-size:2em ;
+    color:red ;
+}
+.li{
+    height: 80px ;
+    width:20% ;
+}
+.m{
+    height: 80px ;
+    width:20% ;
+    position: relative;
+}
+.a{
+    height: 80px ;
+    width:20% ;
+}
+.l{
+    height: 80px ;
+    width:20% ; 
+}
+.g{
+    height: 80px ;
+    width:20% ;
+}
+.div{
+    height:300px ;
+    width:100% ;
+    border:5px solid rgb(77,77,77);
+    background-color:rgb(180, 234, 255) ;
+}
+.div2{
+    height:290px ;
+    width:27% ;
+    border-right:5px solid rgb(77, 77, 77);
+    background-color:white ;
+    float:left;
+    font-size:  1.5em ;
+    padding:20px ;
+    color: rgb(77, 77, 77);
+    text-align: center;
+    font-weight: bold;
+    background-repeat:no-repeat ;
+}
+
+
+.bhb{
+    width:150px ;
+    height:50px ;
+    margin:5px ;
+    position: relative;
+    left:27.3% ;
+    text-align: center;
+    border-radius:5px ;
+    border:0 ;
+}
+button{
+    height:50px ;
+    width:150px ;
+    color:white ;
+    background-color: yellowgreen;
+    position: relative;
+    margin:5px ;
+    position: relative;
+    left:27.3% ;
+    top:120px ;
+    border-radius:5px ;
+    border:0 ;
+}
+input{
+    text-align: center;
+    height: 50px ;
+    width:300px ;
+    margin:5px ;
+    position: relative;
+    left:27.3% ;
+    top:120px;
+    border-radius:5px ;
+    border:0 ;
+}
+
+.fotol{
+    height:150px ;
+    width:150px ;
+
+}
+.V3C{
+    font-size:2em;
+    position: relative;
+    left:25%;
+    color:rgb(77,77,77);
+    font-weight: bold;
+}
+.logo3{
+    float:right;
+    height:70px ;
+    width:170px ;
+    position: relative;
+    right:87% ;
+    top:0.7%;
+}
+
+.png{
+    height:70px ;
+    width:70px ;
+}
+.camera{
+    margin:25px ;
+    height:90px ;
+    width:90px ;
+}
+.insta{
+    height:45px ;
+    width:45px ;
+    position: relative;
+    top:72% ;
+    left:1.5% ;
+}
+.email{
+    height:35px ;
+    width:40px ;
+    position: relative;
+    top:70% ;
+    left:2.5% ;
+}
+.youtube{
+    height:35px ;
+    width:50px ;
+    position: relative;
+    top:70% ;
+    left:3.5% ;  
+}
+.telegram{
+    height:50px ;
+    width:50px ;
+    position: relative;
+    top:73% ;
+    left:4.5% ;    
+}
+.viber{
+    height:50px ;
+    width:50px ;
+    position: relative;
+    top:73% ;
+    left:5.5% ; 
+}
+.facebook{
+    height:55px ;
+    width:55px ;
+    position: relative;
+    top:73% ;
+    left:6.5% ;   
+}
+.strelka{
+    color: black;
+    margin-left:150px ;
+    margin-right:150px ;
+}
+.gkg{
+    position: relative;
+    bottom:81.4px ;
+    border-right:5px solid rgb(77,77,77) ;
+}
+.formaZV{
+    font-size:2em ;
+    position: relative;
+    bottom:100% ;
+    display:inline-block;
+    color:rgb(77,77,77);
+    margin-left:250px ;
+}
+.Agli{
+    height: 100px ;
+    width:20% ;
+}
